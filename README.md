@@ -74,7 +74,7 @@
 
 <div align="center" >
   
-<img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=vpena-dev&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img align="right" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpena-dev&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img heigth="180em"  src="https://github-readme-stats.vercel.app/api?username=vpena-dev&show_icons=true&theme=vision-friendly-dark" alt="vpena-dev's stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpena-dev&layout=compact&theme=vision-friendly-dark" alt="vpena-dev's most languages"/>
 
 </div>
