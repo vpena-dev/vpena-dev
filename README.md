@@ -21,7 +21,7 @@
 
 - Graduated with a degree in Information Systems
 
-- Jr Front-end Developer
+- Jr Front-end Web Developer
   
 - I'm currently looking for my first opportunity!
   
