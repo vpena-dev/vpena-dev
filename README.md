@@ -19,8 +19,8 @@
 
 ### 🙋🏻‍♂️ About Me
 
+- Graduated with a degree in Information Systems
 
-  
 - Jr Front-end Developer
   
 - I'm currently looking for my first opportunity!
