@@ -55,7 +55,7 @@
 <div>
 
 <a href="mailto:vpena.dev@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/vpena-dev" target="_blank">
@@ -75,7 +75,10 @@
 
 <div align="center" >
   
-<img heigth="180em"  src="https://github-readme-stats.vercel.app/api?username=vpena-dev&show_icons=true&theme=vision-friendly-dark" alt="vpena-dev's stats"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpena-dev&layout=compact&theme=vision-friendly-dark" alt="vpena-dev's most languages"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vpena-dev&show_icons=true&theme=dark" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpena-dev&theme=dark&hide_progress=true)
+
+
 
 </div>
