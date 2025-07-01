@@ -8,7 +8,7 @@
 
 <div align="center">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vpena-dev&color=blue" alt="Profile views" /> </p>
-<img align="right" height="480" alt="coding-time" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRkNWhxejJtYmU0YWRzMTVjaWp3amc3MGpmbjh0YW5ma3JsYmtjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp">
+<img align="right" height="400" alt="coding-time" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRkNWhxejJtYmU0YWRzMTVjaWp3amc3MGpmbjh0YW5ma3JsYmtjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp">
 <div align="left">
 
 ### 🙋🏻‍♂️ About Me
